@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root.dark{
-  @apply bg-gradient-to-r from-black to-slate-700;
+  @apply bg-gradient-to-r from-black to-slate-800;
 }
 :root.light{
-  @apply bg-gradient-to-r from-pink-300 to-violet-300;
+  @apply bg-gradient-to-r from-fuchsia-300 to-rose-300;
 }
